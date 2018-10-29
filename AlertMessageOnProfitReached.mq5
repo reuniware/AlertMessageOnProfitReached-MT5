@@ -6,7 +6,6 @@
 #property copyright "Copyright 2018, InvestDataSystems"
 #property link      "https://tradingbot.wixsite.com/robots-de-trading"
 #property version   "1.00"
-#include <Trade\Trade.mqh>
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
